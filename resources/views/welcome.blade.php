@@ -17,7 +17,7 @@
             .button {
                 background-color: #49897e;
                 border: none;
-                color: white;
+                color: #c9d4d3;
                 padding: 8px 40px;
                 text-align: center;
                 text-decoration: none;
@@ -25,8 +25,8 @@
                 font-size: 16px;
                 margin: 4px 2px;
                 cursor: pointer;
-                -webkit-transition-duration: 0.4s;
-                transition-duration: 0.4s;
+                -webkit-transition-duration: 1s;
+                transition-duration: 1s;
                 border-radius: 4px;
             }
             .button:hover {
