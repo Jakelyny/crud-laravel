@@ -20,13 +20,24 @@ Para utilizar o projeto é necessário algumas configurações e comandos:
 ![image](https://user-images.githubusercontent.com/85123013/144430327-6bdf3141-c277-465c-aa0a-9e7cd5db8c7d.png)
 
     
-## Learning Laravel
+## Entrada
+    
+![image](https://user-images.githubusercontent.com/85123013/144430822-c95f6c80-bf99-49b0-86bc-9737f1e6e58f.png)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Registro
+    
+![image](https://user-images.githubusercontent.com/85123013/144430951-ef1a9972-c560-41d8-ba41-5c30510afef1.png)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Logar
+    
+![image](https://user-images.githubusercontent.com/85123013/144431078-1d342452-79fa-498c-8121-d3bbce128cd4.png)
 
-## Laravel Sponsors
+## Criar 
+    
+![image](https://user-images.githubusercontent.com/85123013/144431211-0c616122-14eb-43e7-8cce-a2c33c237c83.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Editar
+    
+![image](https://user-images.githubusercontent.com/85123013/144431308-b8b8ef04-2515-47cd-b966-de3601cd128f.png)
+
 
