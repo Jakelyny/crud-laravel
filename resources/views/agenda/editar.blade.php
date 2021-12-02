@@ -1,5 +1,31 @@
 @extends('layouts.app')
 @section('content')
+<style>
+    body {
+        font-family: 'Nunito', sans-serif;
+        background-color: #004443;
+    }
+    .button {
+        background-color: #00755c; 
+        border: none;
+        color: white;
+        padding: 8px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        border-radius: 5px;
+    }
+    .button:hover {
+        background-color: #007F63;
+    }
+
+</style>
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -24,7 +50,7 @@
                             <textarea class="form-control" name="observacao" id="observacao" rows="7">{{ $agenda->observacao }}</textarea>
                         </div>
                         <div class="col-12">
-                            <button type="submit" class="btn btn-primary">Atualizar</button>
+                            <button type="submit" class="button" class="btn btn-primary">Atualizar</button>
                         </div>
                     </form>
                 </div>

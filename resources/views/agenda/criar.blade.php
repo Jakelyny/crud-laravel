@@ -25,11 +25,6 @@
         background-color: #007F63;
     }
 
-    img {
-        width: 60%;
-        margin-left: 20%;
-    }
-
 </style>
 
 <div class="container">
