@@ -19,11 +19,8 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 ``` diff
-diff --git a/filea.extension b/fileb.extension
+
 index d28nd309d..b3nu834uj 111111
---- a/filea.extension
-+++ b/fileb.extension
-@@ -1,6 +1,6 @@
--oldLine
-+newLine
+teste
+teste 2
 ```
