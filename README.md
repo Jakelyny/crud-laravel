@@ -5,15 +5,13 @@ Para utilizar o projeto é necessário algumas configurações e comandos:
 ``` diff
     ●  php artisan migrate: para criação e migração das tabelas
 ```
-
 ![image](https://user-images.githubusercontent.com/85123013/144429735-d1c6c9c0-e188-4205-8808-e55cb8e35d1e.png)
     
 
 ``` diff
     ●  E alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
 ```
-    
-![image](https://user-images.githubusercontent.com/85123013/144429926-0f3193f4-9af5-4872-8b15-b1bfc54e1e3d.png)
+![image](https://user-images.githubusercontent.com/85123013/144430117-131fc789-054d-4da4-b2cd-a545cce57b12.png)
 
 
 ``` diff
