@@ -3,7 +3,7 @@
 Para utilizar o projeto é necessário algumas configurações e comandos:
 
 ``` diff
-    - php artisan migrate: para criação e migração das tabelas
+    - **php artisan migrate** : para criação e migração das tabelas
 ```
     
 ``` diff
