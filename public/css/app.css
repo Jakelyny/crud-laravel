@@ -4416,8 +4416,11 @@ input[type=button].btn-block {
 .card-header {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
-  background-color: rgba(0, 0, 0, 0.03);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: #b6d0cb;
+  border-bottom: 1px solid #a3beba;
+  box-shadow: 0 0 4px #a4c4bf;
+  color: #0f1b19;
+  font-weight: bold;
 }
 .card-header:first-child {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;

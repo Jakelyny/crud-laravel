@@ -15,6 +15,15 @@ class CreateAgendaTable extends Migration
     {
         Schema::create('agenda', function (Blueprint $table) {
             $table->id();
+            $table->string('descricao');
+            $table->date('data_planejada');
+            $table->text('observacao')->nullable();
+
+            $table->unsignedBigInteger('usuario');
+            $table->foreign('usuario')
+                ->references('id')
+                    ->on('users');
+
             $table->timestamps();
         });
     }
