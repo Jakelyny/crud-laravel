@@ -1,6 +1,6 @@
 ## <h2 >Agenda em Laravel
 
-Para utilizar o projeto é necessário algumas configurações e comandos:
+### Para utilizar o projeto é necessário algumas configurações e comandos:
 
 ``` diff
     ●  php artisan migrate: para criação e migração das tabelas
@@ -17,7 +17,9 @@ Para utilizar o projeto é necessário algumas configurações e comandos:
 ``` diff
     ●  php artisan serve: para rodar o servidor
 ```
+![image](https://user-images.githubusercontent.com/85123013/144430327-6bdf3141-c277-465c-aa0a-9e7cd5db8c7d.png)
 
+    
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
