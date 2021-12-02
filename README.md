@@ -2,12 +2,17 @@
 
 Para utilizar o projeto é necessário algumas configurações e comandos:
 
-- php artisan migrate: para criação e migração das tabelas
+``` diff
+    - php artisan migrate: para criação e migração das tabelas
+```
+    
+``` diff
+    - E alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
+```
 
-- E alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
-
-- php artisan serve: para rodar o servidor
-
+``` diff
+    - php artisan serve: para rodar o servidor
+```
 
 ## Learning Laravel
 
@@ -18,7 +23,4 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-``` diff
-++ testeee 
-    teste
-```
+
