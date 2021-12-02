@@ -6,12 +6,15 @@ Para utilizar o projeto é necessário algumas configurações e comandos:
     ●  php artisan migrate: para criação e migração das tabelas
 ```
 
-![image](https://user-images.githubusercontent.com/85123013/144429406-6f28b389-e58a-4134-a511-ce3bff224847.png)
+![image](https://user-images.githubusercontent.com/85123013/144429735-d1c6c9c0-e188-4205-8808-e55cb8e35d1e.png)
     
 
 ``` diff
     ●  E alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
 ```
+    
+![image](https://user-images.githubusercontent.com/85123013/144429926-0f3193f4-9af5-4872-8b15-b1bfc54e1e3d.png)
+
 
 ``` diff
     ●  php artisan serve: para rodar o servidor
