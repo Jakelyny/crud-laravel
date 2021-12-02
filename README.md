@@ -8,7 +8,7 @@ Projeto desenvolido como atividade final para a **Ustart**, programa de capacita
     
 
 ``` diff
-  ●  E alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
+  ●  Alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
 ```
 ![image](https://user-images.githubusercontent.com/85123013/144430117-131fc789-054d-4da4-b2cd-a545cce57b12.png)
 
