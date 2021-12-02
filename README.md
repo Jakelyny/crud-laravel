@@ -1,6 +1,5 @@
 ## <h2 >Agenda em Laravel
-
-Para utilizar o projeto é necessário algumas configurações e comandos:
+Projeto desenvolido como atividade final para a **Ustart**, programa de capacitação em desenvolvimento FullStack, com parcerias da Umentor, Elevor e UPF. Para utilizar o projeto é necessário algumas configurações e comandos:
 
 ``` diff
   ●  php artisan migrate: para criação e migração das tabelas
