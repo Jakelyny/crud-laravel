@@ -15,7 +15,7 @@
                 background-color: #92b8b2;
             }
             .button {
-                background-color: #5b958b;
+                background-color: #49897e;
                 border: none;
                 color: white;
                 padding: 8px 40px;
@@ -27,6 +27,7 @@
                 cursor: pointer;
                 -webkit-transition-duration: 0.4s;
                 transition-duration: 0.4s;
+                border-radius: 4px;
             }
             .button:hover {
                 background-color: rgb(6, 180, 142);
