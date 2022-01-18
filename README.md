@@ -1,9 +1,9 @@
 ## <h2 >Agenda em Laravel
 Projeto desenvolido como atividade final para a **Ustart**, programa de capacitação em desenvolvimento FullStack, com parcerias da Umentor, Elevor e UPF. Para utilizar o projeto é necessário algumas configurações e comandos:
 
-``` diff
+
   ●  `php artisan migrate` para criação e migração das tabelas
-```
+    
 ![image](https://user-images.githubusercontent.com/85123013/144429735-d1c6c9c0-e188-4205-8808-e55cb8e35d1e.png)
     
 
