@@ -2,19 +2,19 @@
 Projeto desenvolido como atividade final para a **Ustart**, programa de capacitação em desenvolvimento FullStack, com parcerias da Umentor, Elevor e UPF. Para utilizar o projeto é necessário algumas configurações e comandos:
 
 ``` diff
-  ●  php artisan migrate: para criação e migração das tabelas
+  ●  'php artisan migrate' para criação e migração das tabelas
 ```
 ![image](https://user-images.githubusercontent.com/85123013/144429735-d1c6c9c0-e188-4205-8808-e55cb8e35d1e.png)
     
 
 ``` diff
-  ●  Alterações na configuração do arquivo .env, caso use MySQL ou PostgreSQL
+  ●  Alterações na configuração do arquivo '.env', caso use MySQL ou PostgreSQL
 ```
 ![image](https://user-images.githubusercontent.com/85123013/144430117-131fc789-054d-4da4-b2cd-a545cce57b12.png)
 
 
 ``` diff
-  ●  php artisan serve: para rodar o servidor
+  ●  'php artisan serve' para rodar o servidor
 ```
 ![image](https://user-images.githubusercontent.com/85123013/144430327-6bdf3141-c277-465c-aa0a-9e7cd5db8c7d.png)
 
